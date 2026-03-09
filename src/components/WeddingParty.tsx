@@ -29,7 +29,7 @@ export default function WeddingParty() {
               className="w-40 h-40 md:w-48 md:h-48 object-cover rounded-full shadow-lg mb-4"
             />
             <h3 className="text-lg md:text-xl font-semibold">Kimberly Turner</h3>
-            <p className="text-sm italic mb-2">Matron of honor</p>
+            <p className="text-sm italic mb-2">Juinor miad of honor</p>
           </div>
   
           <div className="flex flex-col items-center">

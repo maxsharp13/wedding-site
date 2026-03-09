@@ -8,11 +8,10 @@ export default function Schedule() {
   
         <ul className="space-y-2">
   
-          <li>Ceremony – Time – Location</li>
+          <li>Ceremony; 5pm-6pm. </li>
+
   
-          <li>Cocktail Hour – Time – Location</li>
-  
-          <li>Reception – Time – Location</li>
+          <li>Reception; 6pm-10pm.</li>
   
         </ul>
   
