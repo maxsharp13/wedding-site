@@ -8,8 +8,9 @@ export default function Schedule() {
   
         <ul className="space-y-2">
   
-          <li>Ceremony; 5pm-6pm. </li>
-
+          <li>Ceremony; 4pm-5pm. </li>
+          
+          <li>Wedding party photos; 5pm-6pm.</li>
   
           <li>Reception; 6pm-10pm.</li>
   

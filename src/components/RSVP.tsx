@@ -76,6 +76,7 @@ export default function RSVP() {
         </div>
       ) : (
 
+      <>
       <form onSubmit={handleSubmit} className="flex flex-col gap-6">
 
         <input
@@ -143,6 +144,11 @@ export default function RSVP() {
 
       </form>
 
+      <p className="text-sm italic text-gray-600 mt-6">
+      We respectfully request no children unless previously discussed.
+      </p>
+
+      </>
       )}
 
     </section>
