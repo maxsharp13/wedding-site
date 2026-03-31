@@ -72,11 +72,11 @@ export default function WeddingParty() {
   
           <div className="flex flex-col items-center">
             <img
-              src="/img/groomsman3.jpg"
-              alt="Timothy Aubert"
+              src="public/img/IMG_8902.jpg"
+              alt="Thomas Wilson"
               className="w-40 h-40 md:w-48 md:h-48 object-cover rounded-full shadow-lg mb-4"
             />
-            <h3 className="text-lg md:text-xl font-semibold">Timothy Aubert</h3>
+            <h3 className="text-lg md:text-xl font-semibold">Thomas Wilson</h3>
             <p className="text-sm italic mb-2">Groomsman</p>
           </div>
   
