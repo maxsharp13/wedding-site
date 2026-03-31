@@ -72,7 +72,7 @@ export default function WeddingParty() {
   
           <div className="flex flex-col items-center">
             <img
-              src="/img/IMG_8902.jpg"
+              src="/img/groomsman4.jpg"
               alt="Thomas Wilson"
               className="w-40 h-40 md:w-48 md:h-48 object-cover rounded-full shadow-lg mb-4"
             />
